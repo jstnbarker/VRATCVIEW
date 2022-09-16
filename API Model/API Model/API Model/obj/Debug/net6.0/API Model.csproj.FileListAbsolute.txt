@@ -1,0 +1,17 @@
+C:\Users\jstnb\workspace\VRATCVIEW\API Model\API Model\API Model\bin\Debug\net6.0\API Model.exe
+C:\Users\jstnb\workspace\VRATCVIEW\API Model\API Model\API Model\bin\Debug\net6.0\API Model.deps.json
+C:\Users\jstnb\workspace\VRATCVIEW\API Model\API Model\API Model\bin\Debug\net6.0\API Model.runtimeconfig.json
+C:\Users\jstnb\workspace\VRATCVIEW\API Model\API Model\API Model\bin\Debug\net6.0\API Model.dll
+C:\Users\jstnb\workspace\VRATCVIEW\API Model\API Model\API Model\bin\Debug\net6.0\API Model.pdb
+C:\Users\jstnb\workspace\VRATCVIEW\API Model\API Model\API Model\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jstnb\workspace\VRATCVIEW\API Model\API Model\API Model\obj\Debug\net6.0\API Model.csproj.AssemblyReference.cache
+C:\Users\jstnb\workspace\VRATCVIEW\API Model\API Model\API Model\obj\Debug\net6.0\API Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jstnb\workspace\VRATCVIEW\API Model\API Model\API Model\obj\Debug\net6.0\API Model.AssemblyInfoInputs.cache
+C:\Users\jstnb\workspace\VRATCVIEW\API Model\API Model\API Model\obj\Debug\net6.0\API Model.AssemblyInfo.cs
+C:\Users\jstnb\workspace\VRATCVIEW\API Model\API Model\API Model\obj\Debug\net6.0\API Model.csproj.CoreCompileInputs.cache
+C:\Users\jstnb\workspace\VRATCVIEW\API Model\API Model\API Model\obj\Debug\net6.0\API Model.csproj.CopyComplete
+C:\Users\jstnb\workspace\VRATCVIEW\API Model\API Model\API Model\obj\Debug\net6.0\API Model.dll
+C:\Users\jstnb\workspace\VRATCVIEW\API Model\API Model\API Model\obj\Debug\net6.0\refint\API Model.dll
+C:\Users\jstnb\workspace\VRATCVIEW\API Model\API Model\API Model\obj\Debug\net6.0\API Model.pdb
+C:\Users\jstnb\workspace\VRATCVIEW\API Model\API Model\API Model\obj\Debug\net6.0\API Model.genruntimeconfig.cache
+C:\Users\jstnb\workspace\VRATCVIEW\API Model\API Model\API Model\obj\Debug\net6.0\ref\API Model.dll

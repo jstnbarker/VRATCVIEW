@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "5F1JM0oqU0w+PSX+nYA92wSaukzoZRQLaCkXP1CvdgtB1Z3i4RFIs52F0ns3w3Q3rGCiMt53lRb/WkqfmqnCmQ==",
+  "dgSpecHash": "BqBIRn8BJ48LmiGsb+y1Dqoqe1AEUTrRinQpMg/Lxl0fXnktaj634jojf3u4w890w3PfhqURgQ/UudqVAWy5cw==",
   "success": true,
   "projectFilePath": "C:\\Users\\jstnb\\workspace\\VRATCVIEW\\API Model\\API Model\\API Model\\API Model.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jstnb\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,8 @@
-﻿using System.Collections;
-using System.Text.Json;
+﻿using System;
+using System.Collections;
 using System.Threading;
-
-
+using Newtonsoft.Json; // Project -> Manage NuGet Packages -> Search for Newtonsoft
+using Newtonsoft.Json.Linq;
 
 namespace Program
 {
@@ -34,7 +34,10 @@ namespace Program
         {
             Task<string> apitask = apireq();
             string jsonString = apitask.Result;
-
+            var result = JsonConvert.DeserializeObject<Dictionary<string, object>>(jsonString);
+            Console.WriteLine(result.Keys.ElementAt(0));
+            var value = new object();
+            var ac = result.TryGetValue("ac", out value);
             Thread.Sleep(10000);
         }
     }
